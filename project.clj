@@ -1,4 +1,4 @@
-(defproject tailrecursion/cljs-priority-map "1.2.0"
+(defproject ignorabilis/cljs-priority-map "1.2.0"
   :description "ClojureScript priority map implementation based on clojure.data.priority-map"
   :url "https://github.com/tailrecursion/cljs-priority-map"
   :license {:name "Eclipse Public License"
